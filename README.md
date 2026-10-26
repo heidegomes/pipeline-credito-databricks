@@ -1,5 +1,3 @@
-# pipeline-credito-databricks
-
 # Pipeline Lakehouse para Análise de Risco de Crédito e Perfil de Associados 🟢
 
 Este projeto apresenta o desenvolvimento de um pipeline de dados robusto, utilizando a **Arquitetura Medallion (Bronze, Silver e Gold)** dentro da plataforma **Databricks**. O objetivo principal é processar dados de propostas de crédito e movimentações financeiras para calcular indicadores críticos de risco (como taxas de inadimplência) e traçar o perfil socioeconômico dos associados, simulando um cenário real de inteligência de dados para o **Sicredi**.
